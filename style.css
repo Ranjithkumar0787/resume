@@ -1,0 +1,27 @@
+.vk{
+    display
+    border: 25px solid gray ;
+    width: 20%;
+}
+.a{
+    display: flex;
+    width: 860px;
+}
+.rk{
+    background-color:aquamarine;
+    padding: 5%;
+}
+*{
+    background-color: cadetblue;
+    
+}
+#rank{
+    background-color: cornflowerblue;
+    margin: 10%;
+}
+.boxmodel {
+    width: 300px;
+    border: 30px solid black;
+    padding: 150px;
+    margin: 100px;
+  }
